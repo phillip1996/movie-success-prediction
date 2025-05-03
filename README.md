@@ -1,3 +1,5 @@
+Feel free to fork the project, raise issues, or open pull requests with suggestions or improvements.
+
 ---
 
 This project uses **machine learning** to predict the **success rate of movies** based on features such as genre, budget, runtime, language, and more.
