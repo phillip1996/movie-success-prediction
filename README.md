@@ -1,4 +1,4 @@
-Feel free to fork the project, raise issues, or open pull requests with suggestions or improvements.
+# 🎬 Movie Success Rate Prediction
 
 ---
 
